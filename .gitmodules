@@ -1,0 +1,3 @@
+[submodule "app/frontend"]
+	path = app/frontend
+	url = https://github.com/Atharv-03-cyber/Assignment-1.git
