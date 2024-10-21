@@ -1,0 +1,1 @@
+There is some problem while adding frontend folder in app folder while uploding on github so kindly add backend and frontend folders in vs code as the codes are proper and then npm install and npm start to run the bakcend part you need to node index.js 
